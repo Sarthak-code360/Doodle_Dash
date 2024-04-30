@@ -14,6 +14,7 @@ Real-time whiteboard made with Next.JS and Socket.IO
 - Changing backgrounds
 - Sharing
 ## Made using
+- TypeScript
 - Next.JS
 - Recoil
 - TailwindCSS
